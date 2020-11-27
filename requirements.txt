@@ -9,7 +9,6 @@ urllib3==1.25.9
 yarg==0.1.9
 matplotlib==3.2.1
 ipywidgets==7.5.1
-CPython==3.8.3
 IPython==7.16.1
 pandas==1.0.5
 watermark==2.0.2
