@@ -12,3 +12,6 @@ ipywidgets==7.5.1
 IPython==7.16.1
 pandas==1.0.5
 watermark==2.0.2
+import-ipynb==0.1
+sympy==103
+ipympl==0.5.8
